@@ -41,7 +41,7 @@ Amazon EFS (Shared Storage)
 Encryption at rest using AWS KMS Autoscaling via HPA + KEDA + Cluster Autoscaler GitOps-based deployments using ArgoCD
 
 ---
-<b> ## Technology Stack </b>
+## Technology Stack 
 ##☁️ Cloud & AWS Services
 
 - Amazon EKS
