@@ -17,7 +17,7 @@ An **Order & Inventory Management Platform** where:
 - Redis provides high-speed caching
 - EFS provides shared persistent storage- Services scale dynamically based on **Kafka consumer lag**, not just CPU
   
-This architecture enables **loose coupling**, **high throughput**, and **resilient processing**during traffic spikes.
+ This architecture enables **loose coupling**, **high throughput**, and **resilient processing**during traffic spikes.
 ---
 ## High-Level Architecture
 ```text
