@@ -39,10 +39,10 @@ ElastiCache Redis (OSS)
 Amazon EFS (Shared Storage)
 
 Encryption at rest using AWS KMS Autoscaling via HPA + KEDA + Cluster Autoscaler GitOps-based deployments using ArgoCD
-
+```
 ---
-## Technology Stack 
-##☁️ Cloud & AWS Services
+# Technology Stack
+## ☁️ Cloud & AWS Services
 
 - Amazon EKS
 - Amazon MSK (Kafka)
@@ -54,23 +54,23 @@ Encryption at rest using AWS KMS Autoscaling via HPA + KEDA + Cluster Autoscaler
 - AWS WAF
 - CloudWatch
 
-##🏗️ Infrastructure as Code
+## 🏗️ Infrastructure as Code
 
 - Terraform (modular, remote state, multi-environment)
 - Helm (platform add-ons)
 
-##☸️ Containers & Orchestration
+## ☸️ Containers & Orchestration
 - Docker
 - Kubernetes (EKS)
 - Helm
 
-##🔁 CI/CD & GitOps
+## 🔁 CI/CD & GitOps
 
 - GitHub Actions (CI)
 - Docker Hub (container registry)
 - ArgoCD (GitOps CD)
 
-##📊 Observability & SRE
+## 📊 Observability & SRE
 - Prometheus
 - Grafana
 - ELK / EFK
@@ -78,14 +78,13 @@ Encryption at rest using AWS KMS Autoscaling via HPA + KEDA + Cluster Autoscaler
 - Tempo
 - SLIs / SLOs
 
-##🔐 Security & DevSecOps
+## 🔐 Security & DevSecOps
 - KMS encryption
 - IAM & IRSA
 - OPA / Gatekeeper
 - Trivy
 - Secrets scanning
 
-##🧑‍💻 Automation & Scripting
+## 🧑‍💻 Automation & Scripting
 - Bash
 - Python
-
