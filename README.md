@@ -39,8 +39,8 @@ ElastiCache Redis (OSS)
 Amazon EFS (Shared Storage)
 
 Encryption at rest using AWS KMS Autoscaling via HPA + KEDA + Cluster Autoscaler GitOps-based deployments using ArgoCD
-
 ---
+
 # Technology Stack
 
 ##☁️ Cloud & AWS Services
